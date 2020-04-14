@@ -1,1 +1,30 @@
 theme: jekyll-theme-modernist
+# global settings
+title: "Alex GH pages"
+description: "Alex GH pages"
+permalink: "/stories/:title"
+analytics_account: "AAA"
+
+# build settings
+exclude: ["script", "vendor", "bower.json", "Gemfile", "Gemfile.lock", "Rakefile", "readme.md", "package.json", "node_modules"]
+markdown: kramdown
+plugins:
+  - jekyll-avatar
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-coffeescript
+  - jekyll-sitemap
+  - jekyll-octicons
+
+sass:
+  style: :compressed
+  # Where you keep your scss files
+  sass_dir: assets/css/
+  # Where sass should look for other scss
+  load_paths:
+    - node_modules/
+
+# orgs on front page
+featured_orgs:
+  - gcba
+  - nla
