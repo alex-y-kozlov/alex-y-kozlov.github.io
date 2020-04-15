@@ -1,8 +1,8 @@
 # EUE Home
 
 - Application Signatures: 
-  [\<code\>](https://github.com/Aternity/Application-Signatures)
-  [\<wiki\>](https://github.com/Aternity/Application-Signatures/wiki)
+  [\<code\>](https://github.com/Aternity/Application-Signatures) | 
+  [\<wiki\>](https://github.com/Aternity/Application-Signatures/wiki) | 
   [\<issues\>](https://github.com/Aternity/Application-Signatures/issues)
   
 - [Remediation Scripts Library](https://github.com/Aternity/Remediation-Scripts-Library)
