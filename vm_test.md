@@ -3,10 +3,10 @@
 ## Prototype 1
 ***
 ## Why are you here
-> insert an ispiring message to GH Aternity community
+insert an ispiring message to GH Aternity community
 ***
 ## Quick tour
-> insert a shord description on repos and how to use and contribute
+insert a shord description on repos and how to use and contribute
 ***
 ## Navigation examples
 
