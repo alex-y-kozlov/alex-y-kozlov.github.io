@@ -9,11 +9,12 @@
 
 - [Custom Monitors](https://github.com/Aternity/Custom-Monitors)
 
-*or if we want to have a further breakdown*
+*or if we want to have a further breakdown:*
 
-- Remediation Scripts Library:
-  - Acceleration: [\<code\>](https://github.com/Aternity/Remediation-Scripts-Library/tree/master/Acceleration)
-   [\<wiki\>](https://github.com/Aternity/Remediation-Scripts-Library/tree/master/Acceleration)
-   [\<issues\>](https://github.com//Aternity/Application-Signatures/issues)
+- Remediation Scripts Library
+  [\<code\>](https://github.com/Aternity/Application-Signatures) | 
+  [\<wiki\>](https://github.com/Aternity/Application-Signatures/wiki) | 
+  [\<issues\>](https://github.com/Aternity/Application-Signatures/issues)
+  - [Acceleration](https://github.com/Aternity/Remediation-Scripts-Library/tree/master/Acceleration)
   - [Application](https://github.com/Aternity/Remediation-Scripts-Library/tree/master/Application)
   - [Browser](https://github.com/Aternity/Remediation-Scripts-Library/tree/master/Browser)
