@@ -2,7 +2,7 @@
 # Home of Aternity on GitHub
 
 ## Why are we here
-*insert an ispiring mrssage to GH Aternity community*
+*insert an ispiring message to GH Aternity community*
 
 ## Quick tour 
 *insert a shord description on repos and how to use and contribute*
