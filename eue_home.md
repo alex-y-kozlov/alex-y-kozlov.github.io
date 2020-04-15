@@ -1,12 +1,19 @@
 # EUE Home
 
-- [Application Signatures](https://github.com/Aternity/Application-Signatures)
+- Application Signatures: 
+  [\<code\>](https://github.com/Aternity/Application-Signatures)
+  [\<wiki\>](https://github.com/Aternity/Application-Signatures/wiki)
+  [\<issues\>](https://github.com/Aternity/Application-Signatures/issues)
+  
 - [Remediation Scripts Library](https://github.com/Aternity/Remediation-Scripts-Library)
+
 - [Custom Monitors](https://github.com/Aternity/Custom-Monitors)
 
 *or if we want to have a further breakdown*
 
 - Remediation Scripts Library:
-  - [Acceleration](https://github.com/Aternity/Remediation-Scripts-Library/tree/master/Acceleration)
+  - Acceleration: [\<code\>](https://github.com/Aternity/Remediation-Scripts-Library/tree/master/Acceleration)
+   [\<wiki\>](https://github.com/Aternity/Remediation-Scripts-Library/tree/master/Acceleration)
+   [\<issues\>](https://github.com//Aternity/Application-Signatures/issues)
   - [Application](https://github.com/Aternity/Remediation-Scripts-Library/tree/master/Application)
   - [Browser](https://github.com/Aternity/Remediation-Scripts-Library/tree/master/Browser)
