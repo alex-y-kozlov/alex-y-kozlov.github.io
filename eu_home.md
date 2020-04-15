@@ -7,6 +7,6 @@ eue_home.md
 *or if we want to have a further breakdown*
 
 Custom Monitors:
-- [/Acceleration](https://github.com/Aternity/Remediation-Scripts-Library/tree/master/Acceleration)
+- [Acceleration](https://github.com/Aternity/Remediation-Scripts-Library/tree/master/Acceleration)
 - [Application](https://github.com/Aternity/Remediation-Scripts-Library/tree/master/Application)
 - [Browser](https://github.com/Aternity/Remediation-Scripts-Library/tree/master/Browser)
