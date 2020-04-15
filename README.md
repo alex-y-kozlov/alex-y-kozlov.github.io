@@ -10,5 +10,4 @@
 ## Navigation examples
 
 [Navigate to EUE repositpories](https://alex-y-kozlov.github.io/eue_home)
-
 [Navigate to APM repositpories ](https://github.com/Aternity?q=APM)
