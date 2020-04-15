@@ -7,9 +7,7 @@
 ## Quick tour 
 *insert a shord description on repos and how to use and contribute*
 
-## EUE Repositories
-aternity_eue
-https://github.com/Aternity?q=APM
+## Navigation examples
+[Navigate to EUE repositpories](/eue_home.md)
 
-## APM Repositories
-https://github.com/Aternity?q=APM
+[Navigate to APM repositpories](https://github.com/Aternity?q=APM)
